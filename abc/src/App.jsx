@@ -8,7 +8,7 @@ function App() {
     <main className=''>
       <Navbar/>
       <Home />
-      <PopularArticles />
+      {/* <PopularArticles /> */}
     </main>
   )
 }
